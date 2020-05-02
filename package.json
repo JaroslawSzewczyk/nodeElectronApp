@@ -1,0 +1,12 @@
+{
+  "name": "nodeElectronApp",
+  "version": "1.0.0",
+  "description": "Simple node app to learn Electron",
+  "main": "index.js",
+  "repository": "https://github.com/JaroslawSzewczyk/nodeElectronApp.git",
+  "author": "Jarosław Szewczyk <jaroslaw.szewczyk@tutanota.com>",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^8.2.5"
+  }
+}
