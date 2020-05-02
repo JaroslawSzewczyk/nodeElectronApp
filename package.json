@@ -1,12 +1,14 @@
 {
-  "name": "nodeElectronApp",
+  "name": "initial",
   "version": "1.0.0",
-  "description": "Simple node app to learn Electron",
   "main": "index.js",
-  "repository": "https://github.com/JaroslawSzewczyk/nodeElectronApp.git",
-  "author": "Jarosław Szewczyk <jaroslaw.szewczyk@tutanota.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "electron main.js"
+  },
   "dependencies": {
-    "electron": "^8.2.5"
+    "electron": "^5.0.7",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   }
 }
